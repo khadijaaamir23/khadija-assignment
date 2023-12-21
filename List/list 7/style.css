@@ -1,0 +1,13 @@
+.h1{
+    color: rebeccapurple;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.li{
+    color: darkviolet;
+    font-family: initial;
+    font-size: 20px;
+}
+.ul{
+    color: dodgerblue;
+}

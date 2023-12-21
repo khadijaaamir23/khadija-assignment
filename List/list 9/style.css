@@ -1,0 +1,19 @@
+.h1{
+    color: darkred;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h2{
+    color: red;
+    text-decoration: underline;
+}
+.p{
+    color: orchid;
+    font-size: 20px;
+}
+.li{
+    color: limegreen;
+}
+.il{
+    color: lightgreen;
+}

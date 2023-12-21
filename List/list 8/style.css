@@ -1,0 +1,12 @@
+.h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: aquamarine;
+    text-decoration: underline;
+}
+.li{
+    font-weight: bold;
+}
+.il{
+    color: darkblue;
+}
